@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/contain"
+        android:icon="@drawable/ic_category"
+        android:title="@string/containing_information" />
+
+    
+    <item
+        android:id="@+id/policy"
+        android:icon="@drawable/ic_policy"
+        android:title="@string/privacy_policy" />
+
+    <item
+        android:id="@+id/disclaimer"
+        android:icon="@drawable/report_gmailerrorred"
+        android:title="@string/disclaimer" />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic__share"
+        android:title="@string/share" />
+    <item
+        android:id="@+id/rate"
+        android:icon="@drawable/ic_review"
+        android:title="@string/rate_update" />
+
+    <item
+        android:id="@+id/more"
+        android:icon="@drawable/baseline_apps_24"
+        android:title="@string/more_app" />
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_info"
+        android:title="@string/about_app" />
+    <item
+        android:id="@+id/website"
+        android:icon="@drawable/web"
+        android:title="@string/website" />
+    <item
+        android:id="@+id/fb"
+        android:icon="@drawable/ic_account_box"
+        android:title="@string/facebook" />
+    <item
+        android:id="@+id/yt"
+        android:icon="@drawable/ic_video"
+        android:title="@string/youtube" />
+</menu>
